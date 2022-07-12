@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Greety.
-- :hearts: I love programming and troubleshooting :bug: ! I enjoy developing applications and exploring new technologies!
-- 🎨I also love utilizing Test Automation Frameworks to make the world a better place!
-- :confetti_ball: I have designed and developed various software applications in Java, C#. Net, JavaScript, React, Node.js, PHP and more.
+- 👋 Hello World!! I’m Greety.
+- :hearts: I love programming, and troubleshooting :bug: is my passion! I enjoy developing applications and exploring new technologies!
+- 🎨Utilizes the knowledge of Test Automation Frameworks to make the world of a better place!
+- :confetti_ball: Have designed and developed various software applications in Java, C#. Net, JavaScript, React, Node.js, PHP and more.
 - 👀 Showcasing some here..
 
 
