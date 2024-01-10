@@ -1,5 +1,5 @@
 - 👋 Hello World!! I’m Greety.
-- I love coding:hearts: . And troubleshooting :bug: is my passion! I enjoy developing applications and exploring new technologies!
+- I love coding :hearts: And troubleshooting :bug: is my passion! I enjoy developing applications and exploring new technologies!
 - 🎨Utilizes the knowledge of Test Automation to make my world a better place!
 - :confetti_ball: Have designed and developed various software applications using Java, C#. Net, JavaScript, React, Node.js, PHP and more.
 - 👀 Showcasing some here..
